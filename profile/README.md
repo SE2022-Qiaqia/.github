@@ -15,6 +15,7 @@
   > 
   > 但建议可以尝试使用我们的[docker一键部署支持](https://github.com/SE2022-Qiaqia/docker)
 - Docker支持：[docker支持](https://github.com/SE2022-Qiaqia/docker)
+- [部署及演示视频](https://b23.tv/ZJgkxTl)
 
 
 
